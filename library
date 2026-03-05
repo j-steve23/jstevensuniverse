@@ -1,0 +1,11 @@
+Arduino
+  code sensor to sense when a ball passes by.
+  code motor to move the chain that carries the ball.
+  code sensor to tell the motor to start when a ball reaches the bottom.
+  code sensor to tell the motor to stop when the ball reaches the top.
+
+Motion sensor
+  code to sense when a ball passes by it
+
+Motor
+  Code to start and stop according to sensor
